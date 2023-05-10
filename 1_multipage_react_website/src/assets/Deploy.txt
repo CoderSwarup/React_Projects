@@ -1,0 +1,9 @@
+ npm install -g netlify-cli  ==> first timw when not login
+  ntl init 
+  choose team
+  netlify deploy
+  Please provide a publish directory (e.g. "public" or "dist" or "."):
+   netlify deploy --prod
+     Please provide a publish directory (e.g. "public" or "dist" or "."):
+
+     All Done
