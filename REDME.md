@@ -37,3 +37,13 @@
 😍 DEMO : https://swarupmoderncv.netlify.app
 
 ---
+
+👉 Project 3: KBC Quiz Website
+
+✅ Comprehensive KBC Features: Describe the range of features your KBC quiz website offers. Highlight that it includes all essential functionalities such as multiple-choice questions, lifelines (e.g., 50-50, audience poll), difficulty levels, timers, and a scoring system. Emphasize that your project covers the complete KBC experience.
+
+✅ Effective Sound Effects: Mention how you have incorporated suitable sound effects to enhance the user experience. Explain that the sound effects are carefully selected to match the KBC theme and add excitement to the quiz. For example, you can mention the sound of a ticking clock or the iconic "ding" for correct answers.
+
+✅ Utilization of Context Hook: Discuss how you leveraged the Context Hook in React.js to manage state and provide a seamless flow of data across components. Explain the benefits of using the Context Hook, such as avoiding prop drilling and making it easier to share data between components.
+
+---
